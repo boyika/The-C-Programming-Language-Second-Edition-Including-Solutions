@@ -1,2 +1,2 @@
-# The-C-Programming-Language--Learning
-408计算机学科基础-C语言学习
+# The-C-Programming-Language-Second-Edition-Including-Solutions
+C程序设计语言（第2版）学习--含课后习题代码
